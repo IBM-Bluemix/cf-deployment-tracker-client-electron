@@ -10,7 +10,6 @@ var HTTPPost = function(body, callback) {
 
     // An object of options to indicate where to post to
     var b = JSON.stringify(body);
-    console.log(b);
     var post_options = {
       host: 'deployment-tracker.mybluemix.net',
       port: 443,
