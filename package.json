@@ -1,11 +1,11 @@
 {
-  "name": "electron-deployment-tracker-client",
-  "version": "0.1.0",
+  "name": "cf-deployment-tracker-client-electron",
+  "version": "0.1.1",
   "private": false,
   "main": "tracker.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/glynnbird/electron-deployment-tracker-client.git"
+    "url": "https://github.com/IBM-Bluemix/cf-deployment-tracker-client-electron.git"
   },
   "dependencies": {},
   "author": [
